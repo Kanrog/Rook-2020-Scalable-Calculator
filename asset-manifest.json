@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Rook-2020-Scalable-Calculator/static/css/main.48258b3f.css",
-    "main.js": "/Rook-2020-Scalable-Calculator/static/js/main.2cf519e4.js",
+    "main.js": "/Rook-2020-Scalable-Calculator/static/js/main.be972dd7.js",
     "static/js/787.a174f9e5.chunk.js": "/Rook-2020-Scalable-Calculator/static/js/787.a174f9e5.chunk.js",
     "static/media/logo.svg": "/Rook-2020-Scalable-Calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Rook-2020-Scalable-Calculator/index.html",
     "main.48258b3f.css.map": "/Rook-2020-Scalable-Calculator/static/css/main.48258b3f.css.map",
-    "main.2cf519e4.js.map": "/Rook-2020-Scalable-Calculator/static/js/main.2cf519e4.js.map",
+    "main.be972dd7.js.map": "/Rook-2020-Scalable-Calculator/static/js/main.be972dd7.js.map",
     "787.a174f9e5.chunk.js.map": "/Rook-2020-Scalable-Calculator/static/js/787.a174f9e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48258b3f.css",
-    "static/js/main.2cf519e4.js"
+    "static/js/main.be972dd7.js"
   ]
 }
