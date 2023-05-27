@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kanrogCalc/static/css/main.48258b3f.css",
+    "main.js": "/kanrogCalc/static/js/main.29c76d3f.js",
+    "static/js/787.5cab1fc8.chunk.js": "/kanrogCalc/static/js/787.5cab1fc8.chunk.js",
+    "static/media/logo.svg": "/kanrogCalc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kanrogCalc/index.html",
+    "main.48258b3f.css.map": "/kanrogCalc/static/css/main.48258b3f.css.map",
+    "main.29c76d3f.js.map": "/kanrogCalc/static/js/main.29c76d3f.js.map",
+    "787.5cab1fc8.chunk.js.map": "/kanrogCalc/static/js/787.5cab1fc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48258b3f.css",
+    "static/js/main.29c76d3f.js"
+  ]
+}
